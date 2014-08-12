@@ -1,17 +1,5 @@
 test-repo
 =========
 
-*this* is in italics
-
-**this** is bold
-
-## This is a secondary heading
-
-### This is a tertiary heading
-
-* first item in a list
-
-* second item in a list
-
-* third item in a list
-
+The purpose of this rep is for practicing some basic R functions while following-
+along with the Coursera lectures. Thanks!
